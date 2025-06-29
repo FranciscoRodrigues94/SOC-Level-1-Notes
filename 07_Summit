@@ -25,7 +25,8 @@ This document summarizes the detection rules and response actions configured dur
 - **Purpose:** Prevent execution of a known malicious binary.
 - **Reasoning:** Direct identification via unique file hash.
 
-https://github.com/FranciscoRodrigues94/Images/blob/52a787d02bc9031d72ff30f76cb71da7f48d0693/Sample%201_Hash%20Blocklist.jpg
+[Sample 1](https://raw.githubusercontent.com/FranciscoRodrigues94/Images/52a787d02bc9031d72ff30f76cb71da7f48d0693/Sample%201_Hash%20Blocklist.jpg)
+
 
 ---
 
