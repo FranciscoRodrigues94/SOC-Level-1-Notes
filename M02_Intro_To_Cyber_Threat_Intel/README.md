@@ -11,7 +11,7 @@ It explores the intelligence process, relevant standards and frameworks, and how
 
 ## Covered Tasks
 
-1. [01_Introduction](M02_Intro_To_Cyber_Threat_Intel/01_Introduction.md)
+1. [01_Introduction](01_Introduction.md)
 2. [02_Cyber_Threat_Intelligence](./02_Cyber_Threat_Intelligence.md)  
 3. [03_CTI_Lifecycle](./03_CTI_Lifecycle.md)  
 4. [04_CTI_Standards_and_Frameworks](./04_CTI_Standards_and_Frameworks.md)  
