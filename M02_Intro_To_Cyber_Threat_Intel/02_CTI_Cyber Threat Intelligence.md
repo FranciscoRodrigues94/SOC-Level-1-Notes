@@ -1,4 +1,4 @@
-# 01 - What is Cyber Threat Intelligence (CTI)
+# What is Cyber Threat Intelligence (CTI)
 
 ## Overview
 
