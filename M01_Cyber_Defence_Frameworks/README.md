@@ -9,7 +9,7 @@ This section covers a range of defensive models and frameworks used in cybersecu
 ## Covered Rooms:
 
 - [**Junior Security Analyst Intro**](01_Junior_Security_Analyst_Intro.md)
-- [**Pyramid Of Pain**](02_Pyramid_Of_Pain.md)
+- [**Pyramid of Pain**](02_Pyramid_of_Pain.md)
 - [**Cyber Kill Chain**](03_Cyber_Kill_Chain.md)
 - [**Unified Kill Chain**](04_Unified_Kill_Chain.md)
 - [**Diamond Model**](05_Diamond_Model.md)
