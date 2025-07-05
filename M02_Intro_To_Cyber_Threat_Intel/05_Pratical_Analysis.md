@@ -23,7 +23,7 @@ It walks through an incident scenario where analysts must identify indicators of
 ### 1. Analyze the Alert Log  
 You begin by reviewing system alerts that simulate real SIEM outputs. These include timestamps and events such as file downloads, account logins, network traffic, and email activity.
 
-![Alert Log](M02_Intro_To_Cyber_Threat_Intel/Images/CTI_Exercise_Alert_Log.jpg)
+![Alert Log](Images/CTI_Exercise_Alert_Log.jpg)
 
 From this log, you identify important **Indicators of Compromise (IOCs)**:
 
@@ -37,7 +37,7 @@ From this log, you identify important **Indicators of Compromise (IOCs)**:
 
 After analyzing the log, you're asked to answer a series of CTI-related questions that simulate what an analyst might need to report internally:
 
-![CTI Questions](M02_Intro_To_Cyber_Threat_Intel/Images/CTI_Exercise_Questions.jpg)
+![Questions](Images/CTI_Exercise_Questions.jpg)
 
 Questions include:
 - What was the **threat actor email address**?
@@ -46,7 +46,7 @@ Questions include:
 
 Once all questions are answered correctly, the TryHackMe platform returns a validation key:
 
-![CTI Threat Mapping](M02_Intro_To_Cyber_Threat_Intel/Images/CTI_Exercise_Key.jpg)
+![Threat Mapping](Images/CTI_Exercise_Key.jpg)
 
 ---
 
