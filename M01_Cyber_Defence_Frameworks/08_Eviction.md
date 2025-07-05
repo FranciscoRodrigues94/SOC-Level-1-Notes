@@ -32,8 +32,6 @@ The task is to use the **MITRE ATT&CK Navigator** to identify APT28’s known te
 
 ## What did I learn from this?
 
-## What did I learn from this?
-
 - **Practical MITRE Mapping**: I practiced mapping threat intelligence reports directly to the MITRE ATT&CK matrix, which is a vital skill for any SOC Analyst or Threat Hunter.
 - **Behavior over Signatures**: I learned to focus on **TTPs (Tactics, Techniques, Procedures)** rather than static indicators. Understanding how an APT operates helps detect unknown or evolving threats.
 - **Common Tools for Obfuscation & Execution**: Rundll32, PowerShell, and Windows Command Shell are key binaries attackers abuse for stealth. Knowing this helps in log analysis and alert tuning.
